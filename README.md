@@ -18,6 +18,7 @@ Game in Progress
 ![](images/win_in_game_grid.png)
 Player 2 wins 1st game in game grid
 
+
 ![](images/player1_win.png)
 Player 1 wins 2nd game in game grid
 
