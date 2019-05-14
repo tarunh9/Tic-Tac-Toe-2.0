@@ -8,3 +8,20 @@ The winner of the game wins the block on the main grid, else it’s a draw. You 
 The result is displayed once the game is finished. There is an option of playing it again.
 
 ![](images/instructions.png)
+
+![](images/game_screen.png)
+Game Screen
+
+![](images/game_in_progress.png)
+Game in Progress
+
+![](images/win_in_game_grid.png)
+Player 2 wins 1st game in game grid
+
+![](images/player1_win.png)
+Player 1 wins 2nd game in game grid
+
+![](images/result_screen.png)
+Result Screen 
+
+
